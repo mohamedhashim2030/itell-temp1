@@ -1,0 +1,8 @@
+1. Create project structures 
+2. Create HTML Mainl tags and rel and comments
+3. Create, use and Call lib to use it in designs ex:normalize lib on https://necolas.github.io/normalize.css/
+4. Design layout or des my website beofre implement design 
+5. implement design 
+
+fonts lib
+https://www.google.com/fonts/earlyaccess
